@@ -1,0 +1,9 @@
+*.gem
+.bundle
+.sass-cache
+_site
+.jekyll-*
+*.code-workspace
+docker-compose*
+.dockerignore
+.DS_Store

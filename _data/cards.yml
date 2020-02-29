@@ -1,0 +1,20 @@
+# An example structure for the cards, with a few card samples
+---
+- card: 0001 # a unique identifier for this card
+  ac_risk_category: Supplier-Facilitated Risk # category from the Atlantic Council issue brief, Supply Chain in the Software Era https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/supply-chain-in-the-software-era/
+  nrmc_risk_category: # category from the DHS NRMC ICT Supply Chain Task Force interem report https://www.cisa.gov/publication/ict-scrm-task-force-interim-report
+    - Inherited Risk (Extended supplier chain)
+    - Internal Security Operations and Controls
+  scenario: Adversaries got access to your network through a third-party vendor compromise. # hypothetical scenario that introduces risk
+  action: Roll the die and remove the LOWEST component of that color. # how this risk impacts the game
+  mitigation: # methods of addressing these risks
+    - Segment third-party vendor network access.
+    - Require third-party vendors to implement security controls.
+    - Implement network-based intrusion detection and prevention.
+
+- card: 0002 # this is a "good" card so some fields are blank
+  ac_risk_category: 
+  nrmc_risk_category:
+  scenario: You build security into your vendor contracts.
+  action: Save this card. You may discard this card at any time to cancel the effect of another card.
+  mitigation:
