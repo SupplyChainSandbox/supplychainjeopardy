@@ -18,12 +18,12 @@ The Supply Chain Game is a fast-paced, fun tower building competition (similar t
 * All three players can win.
 
 ## Variants
-### Start with an SBOM
+#### Start with an SBOM
 * The die has two sides painted red, indicating this type of component is particularly troublesome, and no green side, indicating this type of component is more robust.
 * Components are blindly drawn from a box, and participants can choose to avoid playing a component they drew and add it to a "discard" pile, consuming one turn.
 * (Savvy participants may choose to play this piece in a strategically strong place, so they can build faster and maintain resilience)
 
-## Mature Cyber Supply Chain Program
+#### Mature Cyber Supply Chain Program
 * The die has two sides of three colors, indicating the other components are known to be less likely to fail, due to supply chain diligence. 
 * Components are blindly drawn from a box, and participants can choose to avoid playing a component they drew and add it to a "discard" pile, consuming one turn.
 * (Savvy participants may choose to play this piece in a strategically strong place, so they can build faster and maintain resilience)
