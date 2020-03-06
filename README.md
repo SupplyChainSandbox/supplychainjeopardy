@@ -3,8 +3,8 @@ The Supply Chain Game is a fast-paced, fun tower building competition (similar t
 
 ## Original rules
 * A team consists of three players. Each player takes turns placing a block, representing an individual component, on the stack.
-* A layer consists of three blocks (unless otherwise noted). 
-* After each player has placed one block (unless otherwise noted), the team draws one card from the deck and plays it.
+* A layer consists of three components (unless otherwise noted). 
+* After each player has placed one component (unless otherwise noted), the team draws one card from the deck and plays it.
 * Gameplay continues until the tower falls.
 * (There are no win conditions)
 
