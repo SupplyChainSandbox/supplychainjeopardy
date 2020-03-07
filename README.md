@@ -27,3 +27,7 @@ The Supply Chain Game is a fast-paced, fun tower building competition (similar t
 * The die has two sides of three colors, indicating the other components are known to be less likely to fail, due to supply chain diligence. 
 * Components are blindly drawn from a box, and participants can choose to avoid playing a component they drew and add it to a "discard" pile, consuming one turn.
 * (Savvy participants may choose to play this piece in a strategically strong place, so they can build faster and maintain resilience)
+
+## Ohter Resources
+* [Cathy Gellis](https://twitter.com/CathyGellis/status/1236043964483907584) pointed to a [project that streamlines card creation from Google Sheets](https://diegeticgames.com/blog/2020/03/04/using-figma-for-card-game-prototyping.html).
+* The [Google Sheet that started it all](https://docs.google.com/spreadsheets/d/1RXn6B1aBbPCP7gQZA-sDUOTj-nGsNMWdej_1oE3x54s/edit).
