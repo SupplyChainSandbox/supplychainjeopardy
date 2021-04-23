@@ -45,14 +45,6 @@ The round ends when the answer is given. The Game Organizer returns to the main 
   1. If incorrect, the first person to type the correct answer from the other teams can take the points.
   1. Teams failing to provide an answer when the time is up will not score and the first person to type the correct answer from the other teams can take the points.
 
-## KALTURA PLATFORM QUESTIONS:
-- How are screens shared via Kaltura platform?
-- How do we ensure other players are able to hear the PPT game noises? Is there a ‘Share computer sound’ option (like in Zoom)?
-- Does Kaltura have a Breakout room feature?
-- Does Kaltura have the ability to automatically split attendees into a certain amount of groups?
-- Will one of us (on the CISA team) be able to run the slides (via the shared screen) + mute microphones while someone else acts as the Game Host?
-
-
 ## Vision
 
 Supply chain management is a critical factor of business success. As software increasingly drives business value, organizations can achieve greater efficiency, agility, and effectiveness - as well as security - by applying similar principles to their cyber supply chains. Vulnerabilities in components such as processors, network stacks, and platform dependencies have shown that supply chain visibility is shallow, while risk runs deep.
