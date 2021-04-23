@@ -1,4 +1,4 @@
-# SupplychainSandbox - Jeopardy Game
+Jeopardy Game
 
 [![Gitter](https://badges.gitter.im/SupplyChainSandbox/SupplychainSandbox-BlockGame.svg)](https://gitter.im/SupplyChainSandbox/SupplychainSandbox-BlockGame?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
