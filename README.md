@@ -1,4 +1,4 @@
-**Supply Chain Jeopardy **
+## SUPPLY CHAIN JEOPARDY 
 
 With a range of categories, team up with other players to test your supply chain and risk management knowledge in a fun, interactive game of jeopardy.
 
@@ -19,5 +19,5 @@ Supply chain management is a critical factor of business success. As software in
 In a just-in-time-delivery world, cybersecurity disruptions to traditional logistics and planning. Not Petya halted operations for shipping companies worldwide, providing a vivid illustration of how dependent organizations have become on their partners’ cybersecurity for physical, as well as digital, assets.
 
 
-## Ohter Resources
+## Other Resources
 * [CISA’s ICT Supply Chain Risk Management webpage](https://www.cisa.gov/supply-chain)
