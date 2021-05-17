@@ -2,11 +2,11 @@
 
 With a range of categories, team up with other players to test your supply chain and risk management knowledge in a fun, interactive game of jeopardy.
 
-Location: RSA Supply Chain Sandbox 
-URL: https://www.rsaconference.com/usa/agenda/session/supply-chain-jeopardy
-Date and Time: **Tuesday, May 18 from 2:15PM-2:55PM PDT** OR 5:15PM-5:55PM EST
+* Location: RSA Supply Chain Sandbox 
+* URL: https://www.rsaconference.com/usa/agenda/session/supply-chain-jeopardy
+* Date and Time: **Tuesday, May 18 from 2:15PM-2:55PM PDT** OR 5:15PM-5:55PM EST
 
-## SCORING RULES
+## Scoring Rules
 1. Teams will take turns selecting a question from the Category board as well as providing the answer. 
 2. Round is over if the Team provides the correct answer.
 3. If incorrect, the first person to type the correct answer from the other team can take the points.
